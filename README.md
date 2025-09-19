@@ -23,10 +23,10 @@ An interactive **Excel dashboard** built from the [Superstore Sales dataset](htt
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+![Dashboard Screenshot](Screenshots/Dashboard.png)
 
 ### Monthly Trend
-![Monthly Trend Screenshot](screenshots/monthly_trend.png)
+![Monthly Trend Screenshot](Screenshots/Analysis.png)
 
 *(After you upload your images into a folder called `screenshots` in your repo, change the file names above to match your uploaded images.)*
 
