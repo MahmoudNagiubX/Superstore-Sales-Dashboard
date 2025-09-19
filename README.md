@@ -9,6 +9,7 @@ An interactive **Excel dashboard** built from the [Superstore Sales dataset](htt
   - Monthly sales trends
   - Revenue by Region
   - Revenue by Category
+  - 
 - **Slicers** for easy filtering by Region, Category, or Segment.
 
 ## 🛠️ Tools Used
@@ -25,10 +26,9 @@ An interactive **Excel dashboard** built from the [Superstore Sales dataset](htt
 ### Dashboard Overview
 ![Dashboard Screenshot](Superstore_Sales_Dashboard/Screenshots/Dashboard.png)
 
-### Monthly Trend
-![Monthly Trend Screenshot](Superstore_Sales_Dashboard/Screenshots/Analysis.png)
+### Data Analysis 
+![Analysis Screenshot](Superstore_Sales_Dashboard/Screenshots/Analysis.png)
 
-*(After you upload your images into a folder called `screenshots` in your repo, change the file names above to match your uploaded images.)*
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
